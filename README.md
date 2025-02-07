@@ -5,8 +5,8 @@
 El proyecto `sqm_batimetria` se centra en el modelamiento de las interfaces de las pozas de SQM a partir de las nubes de puntos obtenidas del equipo RIEGL VQ-480G. Este proyecto proporcionar una herramienta que permita la visualización y análisis de las interfaces de las pozas.
 
 ## To Do
-- [] 
-- [] 
+- [x] Identificar superficies
+- [] Generar modelo continuo
 
 ## Instalación
 
