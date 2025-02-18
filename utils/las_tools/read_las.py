@@ -11,7 +11,7 @@ def read_las_file(las_path: str):
 def normalize_colors(colors):
     rgba = colors - colors.min(axis=0)
     rgba = rgba / rgba.max(axis=0)
-    return (rgba * 255).astype(np.uint8)
+    return rgba #(rgba * 255).astype(np.uint8)
 
 def get_points_and_colors_from_las(las_path: str, limit: int = -1):
     if not isinstance(las_path, str):
