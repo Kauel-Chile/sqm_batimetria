@@ -6,7 +6,10 @@ El proyecto `sqm_batimetria` se centra en el modelamiento de las interfaces de l
 
 ## To Do
 - [x] Identificar superficies
-- [] Generar modelo continuo
+- [x] Generar modelo continuo
+- [x] modeos ocn dos salidas independientes para z y rgb (2 layer)
+- [ ] sacar datos a partir de los modelos discretos
+- [ ] comparacion con los puntos discretos
 
 ## Instalación
 
