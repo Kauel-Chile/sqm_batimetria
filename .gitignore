@@ -174,3 +174,4 @@ cython_debug/
 data/
 outputs/
 discrete_model/
+dems/
